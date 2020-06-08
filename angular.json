@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "club-me-web"
+    }
+  },
+  "defaultProject": "club-me-web",
+  "cli": {
+    "analytics": false
+  }
 }
