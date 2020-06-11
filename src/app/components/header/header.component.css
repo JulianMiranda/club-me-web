@@ -1,0 +1,20 @@
+/* #header {
+    height: 100px;
+    margin: 20px;
+    width: 958px;
+    clear: both;
+    position: relative;
+  }
+   
+  
+  #logo a {
+    display: block;
+    text-indent: -999px;
+    height: 90px; 
+    width: 240px;
+    margin: none;
+  } */
+.logotipo {
+  height: 25px;
+  margin-left: 9px;
+}
